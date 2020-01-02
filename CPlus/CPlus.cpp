@@ -5,8 +5,21 @@
 #include <iostream>
 
 int main()
-{
-    std::cout << "Hello World!\n"; 
+{	
+	// std:cout 是干嘛的
+    std::cout << "哇哈哈 @W!~~!!@#E$%^Y+|}{POIUYTRWEACVBNM<L:FFDHello World!\n"; 
+
+	// std 打印
+	std::cout << 11111;
+
+	// std 打印boolean-true 打印出来：1
+	std::cout << true;
+
+	// std 打印boolean-false 打印出来0
+	std::cout << false;
+
+	// 
+
 }
 
 // 运行程序: Ctrl + F5 或调试 >“开始执行(不调试)”菜单
